@@ -41,6 +41,7 @@
       text-align: center;
     }
     .topnav a {
+      width: 150px;
       float: left;
       color: black;
       padding: 14px 16px;
