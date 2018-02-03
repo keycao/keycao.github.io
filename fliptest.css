@@ -42,7 +42,7 @@
 
 /* back, initially hidden pane */
 .back {
-	background-color: blue;
+	background-color: lightblue;
 	transform: rotateY(180deg);
 }
 
