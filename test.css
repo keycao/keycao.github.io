@@ -33,6 +33,19 @@
       text-align: center;
     }
 
+    a.footer:visited {
+       color:#b6c4eb 
+    }
+    a.footer:link {
+       color:#b6c4eb 
+    }
+    a.footer:hover {
+       color:#b6c4eb 
+    }
+    a.footer:active {
+       color:#b6c4eb 
+    }
+
     .ul {
         text-align: center;
         list-style-position: inside;
