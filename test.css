@@ -28,7 +28,8 @@
       left: 0;
       bottom: 0;-->
       width: 100%;
-      background-color: rgb(68, 85, 90);
+      /*background-color: rgb(68, 85, 90);*/
+      background-color: lightgray;  
       color: black;
       text-align: center;
     }
